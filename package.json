@@ -1,0 +1,13 @@
+{
+  "name": "cdn-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SylvainMarty/cdn-test.git",
+  "author": "Sylvain Marty <10723351+SylvainMarty@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "github-release-cli": "^0.4.1",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.1"
+  }
+}
